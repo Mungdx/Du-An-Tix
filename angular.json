@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "du-an-tix"
+  "defaultProject": "du-an-tix",
+  "cli": {
+    "analytics": false
+  }
 }
